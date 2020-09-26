@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+    xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+    xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+    xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+    xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+    xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+    xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+    xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+    xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+    xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+    xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+    xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+    xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+    xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+    xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex wp14">
+    <w:body>
+        <w:p w14:paraId="126507E0" w14:textId="41B30724" w:rsidR="007900EB" w:rsidRPr="00C46015" w:rsidRDefault="00A254A2" w:rsidP="00566A50">
+            <w:pPr>
+                <w:pStyle w:val="21"/>
+                <w:rPr>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:bdr w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                    <w14:shadow w14:blurRad="50800" w14:dist="38100" w14:dir="2700000" w14:sx="100000" w14:sy="100000" w14:kx="0" w14:ky="0" w14:algn="tl">
+                        <w14:srgbClr w14:val="000000">
+                            <w14:alpha w14:val="60000"/>
+                        </w14:srgbClr>
+                    </w14:shadow>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00C46015">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:u w:val="wave"/>
+                    <w:bdr w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                    <w14:shadow w14:blurRad="50800" w14:dist="38100" w14:dir="2700000" w14:sx="100000" w14:sy="100000" w14:kx="0" w14:ky="0" w14:algn="tl">
+                        <w14:srgbClr w14:val="000000">
+                            <w14:alpha w14:val="60000"/>
+                        </w14:srgbClr>
+                    </w14:shadow>
+                </w:rPr>
+                <w:t>供</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:u w:val="single"/>
+                    <w:bdr w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:shd w:val="pct15" w:color="auto" w:fill="FFFFFF"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                    <w14:shadow w14:blurRad="50800" w14:dist="38100" w14:dir="2700000" w14:sx="100000" w14:sy="100000" w14:kx="0" w14:ky="0" w14:algn="tl">
+                        <w14:srgbClr w14:val="000000">
+                            <w14:alpha w14:val="60000"/>
+                        </w14:srgbClr>
+                    </w14:shadow>
+                </w:rPr>
+                <w:t>职</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:u w:val="single"/>
+                    <w:bdr w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:shd w:val="pct15" w:color="auto" w:fill="FFFFFF"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                    <w14:shadow w14:blurRad="50800" w14:dist="38100" w14:dir="2700000" w14:sx="100000" w14:sy="100000" w14:kx="0" w14:ky="0" w14:algn="tl">
+                        <w14:srgbClr w14:val="000000">
+                            <w14:alpha w14:val="60000"/>
+                        </w14:srgbClr>
+                    </w14:shadow>
+                </w:rPr>
+                <w:t>京</w:t>
+            </w:r>
+            <w:r w:rsidR="00817444">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:sz w:val="44"/>
+                    <w:szCs w:val="44"/>
+                    <w:u w:val="single"/>
+                    <w:bdr w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                    <w14:shadow w14:blurRad="50800" w14:dist="38100" w14:dir="2700000" w14:sx="100000" w14:sy="100000" w14:kx="0" w14:ky="0" w14:algn="tl">
+                        <w14:srgbClr w14:val="000000">
+                            <w14:alpha w14:val="60000"/>
+                        </w14:srgbClr>
+                    </w14:shadow>
+                </w:rPr>
+                <w:t>师</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="48EBE62E" w14:textId="3E82E8EE" w:rsidR="007900EB" w:rsidRPr="003E53DD" w:rsidRDefault="009D6F34" w:rsidP="00AF3FC2">
+            <w:pPr>
+                <w:pStyle w:val="11"/>
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:fldChar w:fldCharType="begin"/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:instrText xml:space="preserve"></w:instrText>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:instrText>eq \o\ac(○,宋)</w:instrText>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:fldChar w:fldCharType="end"/>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="00AF3FC2">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>治平</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:color w:val="FF0000"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="yellow"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>四</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="green"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="00AF3FC2">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="00AF3FC2">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>1067</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="00AF3FC2">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年），黄庭</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="green"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>坚</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="green"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>考中进士，任汝州叶县县</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="green"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>尉</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="green"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                    <w:highlight w:val="green"/>
+                </w:rPr>
+                <w:t>熙宁初参加四京学官的考试。由于应试的文章最优秀，担任了国子监教授，留守文彦博认为他有才能，留他继续任教。苏轼有一次看到他的诗文，以为他的诗文超凡绝尘，卓然独立于千万诗文之中，世上好久已没有这样的佳作。由此，他的名声开始震动四方。黄庭坚担任太和县</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="00AF3FC2">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                </w:rPr>
+                <w:t>知县，以平易治理该县。当时课颁盐焚，其他县都争着占多数，太和县独不这样，县吏们不高兴，可是该县的老百姓都喜欢。</w:t>
+            </w:r>
+            <w:r w:rsidR="007900EB" w:rsidRPr="00AF3FC2">
+                <w:rPr>
+                    <w:rStyle w:val="aff0"/>
+                    <w:b w:val="0"/>
+                    <w:bCs w:val="0"/>
+                    <w:smallCaps w:val="0"/>
+                    <w:spacing w:val="0"/>
+                </w:rPr>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1CEA4955" w14:textId="77777777" w:rsidR="007900EB" w:rsidRPr="009D6F34" w:rsidRDefault="007900EB" w:rsidP="00715437">
+            <w:pPr>
+                <w:keepNext/>
+                <w:keepLines/>
+                <w:spacing w:beforeLines="50" w:before="120" w:after="120" w:line="540" w:lineRule="auto"/>
+                <w:ind w:leftChars="50" w:left="110" w:rightChars="50" w:right="110"/>
+                <w:rPr>
+                    <w:color w:val="4F81BD" w:themeColor="accent1"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                    <w14:shadow w14:blurRad="38100" w14:dist="25400" w14:dir="5400000" w14:sx="100000" w14:sy="100000" w14:kx="0" w14:ky="0" w14:algn="ctr">
+                        <w14:srgbClr w14:val="6E747A">
+                            <w14:alpha w14:val="57000"/>
+                        </w14:srgbClr>
+                    </w14:shadow>
+                    <w14:textOutline w14:w="0" w14:cap="flat" w14:cmpd="sng" w14:algn="ctr">
+                        <w14:noFill/>
+                        <w14:prstDash w14:val="solid"/>
+                        <w14:round/>
+                    </w14:textOutline>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>宋神宗元丰</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>八年（</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>1085</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年），以秘</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>书</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>省校</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>书</w:t>
+            </w:r>
+            <w:r w:rsidRPr="009D6F34">
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>郎召入京</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>师</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>五月黄相出生</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>，后任神宗</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>实录检讨</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>官，著作佐郎。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="630BF474" w14:textId="77777777" w:rsidR="007900EB" w:rsidRDefault="007900EB" w:rsidP="007900EB">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>宋元祐元年（</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>1086</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年），哲宗即位，召黄庭</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>坚</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>为</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>校</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>书</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>郎、《神宗</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>实录</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>》</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>检讨</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>官。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5CADF748" w14:textId="7E26EEBE" w:rsidR="007900EB" w:rsidRDefault="007900EB" w:rsidP="007900EB">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="宋体" w:hAnsi="MS Mincho" w:cs="MS Mincho"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>宋元祐二年（</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>1087</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>年），迁著作佐郎，加集</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>贤</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>校理。《神宗</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>实录</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>》修成后，提拔</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>为</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>起居舍人。遭母</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>丧</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>。黄庭</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>坚</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>性情至孝，母</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>亲</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>病了一年，他日夜察看</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>颜</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>色，衣不解</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>带</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>，及死，筑室于墓旁守孝，哀</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>伤</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>成疾几乎</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>丧</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>命。</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>丧</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>服解除后，任秘</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>书</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>丞</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>，提点明道官，兼国史</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>编</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:t>修官。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="36A1F752" w14:textId="6C94BF79" w:rsidR="0026750E" w:rsidRPr="0026750E" w:rsidRDefault="0026750E" w:rsidP="007900EB">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体"/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:eastAsia="宋体" w:hint="eastAsia"/>
+                    <w:noProof/>
+                    <w:lang w:eastAsia="zh-CN"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="218277AD" wp14:editId="688498B6">
+                        <wp:extent cx="4739005" cy="2893695"/>
+                        <wp:effectExtent l="0" t="0" r="4445" b="1905"/>
+                        <wp:docPr id="1" name="图片 1"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks
+                                xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+                            </wp:cNvGraphicFramePr>
+                            <a:graphic
+                                xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:pic
+                                        xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                        <pic:nvPicPr>
+                                            <pic:cNvPr id="1" name="图片 1"/>
+                                            <pic:cNvPicPr/>
+                                        </pic:nvPicPr>
+                                        <pic:blipFill>
+                                            <a:blip r:embed="rId8"/>
+                                            <a:stretch>
+                                                <a:fillRect/>
+                                            </a:stretch>
+                                        </pic:blipFill>
+                                        <pic:spPr>
+                                            <a:xfrm>
+                                                <a:off x="0" y="0"/>
+                                                <a:ext cx="4739005" cy="2893695"/>
+                                            </a:xfrm>
+                                            <a:prstGeom prst="rect">
+                                                <a:avLst/>
+                                            </a:prstGeom>
+                                        </pic:spPr>
+                                    </pic:pic>
+                                </a:graphicData>
+                            </a:graphic>
+                        </wp:inline>
+                    </w:drawing>
+                </w:r>
+            </w:p>
+            <w:p w14:paraId="18F469A3" w14:textId="77777777" w:rsidR="007900EB" w:rsidRDefault="007900EB" w:rsidP="007900EB">
+                <w:pPr>
+                    <w:rPr>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>流寓江</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>汉</w:t>
+                </w:r>
+            </w:p>
+            <w:p w14:paraId="44D2816D" w14:textId="6DE0DCFE" w:rsidR="0004236C" w:rsidRPr="004804F3" w:rsidRDefault="007900EB" w:rsidP="007900EB">
+                <w:pPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                        <w:u w:val="wavyHeavy"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                </w:pPr>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>宋</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>绍</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>圣初，黄庭</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>坚</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>出任宣州知州，改知鄂州。章敦、</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>蔡卞</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>与其党羽</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>认为</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>《神宗</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>实录</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>》多</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>诬</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>陷不</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>实</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>之辞，使前修史官都分</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>别</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>居于京城附近各</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>处</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>以</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>备盘问</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>，摘</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>录</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>了千余条内容宣示他</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>们</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>，</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>说这</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>些没有</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>验证</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>。不久，</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>经</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>院受考察</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>审阅</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>，却都有事</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>实</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>根据，所剩下的只有三十二件事。黄庭</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>坚</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>在《神宗</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>实录</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>》中写有“用</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>铁龙</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>爪治河，有同儿</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>戏</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>”的</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>话</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>，于是首先</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>盘问</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>他。黄庭</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>坚</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>回答道：“庭</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>坚</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>当</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>时</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>在北都做官，曾</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>亲</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>眼看到</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>这</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>件事，当</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>时</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>的确如同儿</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>戏</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>。”凡是有所</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>查问</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>，他都照</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>实</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>回答，毫无</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>顾</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>忌，听到的人都称</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>赞</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>他胆气豪壮。黄庭</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>坚</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>因此被</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>贬为</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>涪</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>州</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>别驾</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>、黔州安置，攻</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>击</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>他的人</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>还认为</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>他去的是好地方，</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>诬</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>他枉法。后因避</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>亲</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>属之嫌，于是移至</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>戎</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>州。黄庭</w:t>
+                </w:r>
+                <w:proofErr w:type="gramStart"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>坚对</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>此像</w:t>
+                </w:r>
+                <w:proofErr w:type="gramEnd"/>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>没事一</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>样</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>，毫不以</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>贬谪</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>介意。四川的士子都仰幕他，柔意和他</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>亲</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>近。他</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>讲</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>学不倦，凡</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>经</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>他指点的文章都有可</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>观</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="MS Mincho" w:eastAsia="MS Mincho" w:hAnsi="MS Mincho" w:cs="MS Mincho" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>之</w:t>
+                </w:r>
+                <w:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>处</w:t>
+                </w:r>
+                <w:r w:rsidR="009A20CE">
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                    <w:t>。</w:t>
+                </w:r>
+            </w:p>
+            <w:tbl>
+                <w:tblPr>
+                    <w:tblStyle w:val="aff1"/>
+                    <w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="text" w:tblpY="1"/>
+                    <w:tblOverlap w:val="never"/>
+                    <w:tblW w:w="0" w:type="auto"/>
+                    <w:tblLayout w:type="fixed"/>
+                    <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+                </w:tblPr>
+                <w:tblGrid>
+                    <w:gridCol w:w="1535"/>
+                    <w:gridCol w:w="1536"/>
+                    <w:gridCol w:w="1536"/>
+                    <w:gridCol w:w="1536"/>
+                    <w:gridCol w:w="1536"/>
+                </w:tblGrid>
+                <w:tr w:rsidR="00CE3325" w14:paraId="36D6779F" w14:textId="77777777" w:rsidTr="0047463D">
+                    <w:trPr>
+                        <w:trHeight w:val="415"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1535" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="4F3F2A2F" w14:textId="2F31EA75" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>a</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="45423753" w14:textId="28FC5762" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>b</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="1851345C" w14:textId="73B10C03" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>c</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="7E5272A7" w14:textId="6A26BEE1" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>d</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="3C056A94" w14:textId="0ED3E495" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>S</w:t>
+                            </w:r>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>um</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00CE3325" w14:paraId="74A7434F" w14:textId="77777777" w:rsidTr="0047463D">
+                    <w:trPr>
+                        <w:trHeight w:val="415"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1535" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="5CB7F004" w14:textId="6B75BE3D" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>4</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="177FC0D1" w14:textId="476A43CF" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>9</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="1B14D2F7" w14:textId="43D97526" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>1</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="08EE1AAF" w14:textId="6422005E" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>3</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="318273F5" w14:textId="6E7D4A38" w:rsidR="00CE3325" w:rsidRDefault="00FB1F03" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:fldChar w:fldCharType="begin"/>
+                            </w:r>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:instrText xml:space="preserve"> =SUM(a2:d2) </w:instrText>
+                            </w:r>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:fldChar w:fldCharType="separate"/>
+                            </w:r>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:noProof/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>17</w:t>
+                            </w:r>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:fldChar w:fldCharType="end"/>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00CE3325" w14:paraId="0E8C7205" w14:textId="77777777" w:rsidTr="0047463D">
+                    <w:trPr>
+                        <w:trHeight w:val="415"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1535" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="4FCE2E93" w14:textId="07751468" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>5</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="33DDA76D" w14:textId="1F1017B5" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>7</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="596CDB42" w14:textId="52B839DC" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>2</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                            <w:vAlign w:val="bottom"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="40246AF0" w14:textId="6C7874B4" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>6</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="50274B9C" w14:textId="77777777" w:rsidR="00CE3325" w:rsidRDefault="00CE3325" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00CE3325" w14:paraId="2B394698" w14:textId="77777777" w:rsidTr="0047463D">
+                    <w:trPr>
+                        <w:trHeight w:val="415"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1535" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="3CFEF532" w14:textId="319C8FBB" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="005B3AA1">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>2</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="1C114EAA" w14:textId="009088B7" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>2</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="5F039EE1" w14:textId="08701424" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>6</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="28F316C0" w14:textId="4EC16625" w:rsidR="00CE3325" w:rsidRDefault="005B3AA1" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑" w:hint="eastAsia"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                                <w:t>8</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1536" w:type="dxa"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="10BC84A4" w14:textId="77777777" w:rsidR="00CE3325" w:rsidRDefault="00CE3325" w:rsidP="00CF6C07">
+                            <w:pPr>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                                    <w:lang w:eastAsia="zh-CN"/>
+                                </w:rPr>
+                            </w:pPr>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+            </w:tbl>
+            <w:p w14:paraId="668AECBD" w14:textId="7AA90139" w:rsidR="003C7546" w:rsidRDefault="003C7546" w:rsidP="007900EB">
+                <w:pPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="微软雅黑"/>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                </w:pPr>
+            </w:p>
+            <w:p w14:paraId="40A0DD7F" w14:textId="77777777" w:rsidR="003C7546" w:rsidRPr="007900EB" w:rsidRDefault="003C7546" w:rsidP="007900EB">
+                <w:pPr>
+                    <w:rPr>
+                        <w:lang w:eastAsia="zh-CN"/>
+                    </w:rPr>
+                </w:pPr>
+            </w:p>
+            <w:sectPr w:rsidR="003C7546" w:rsidRPr="007900EB" w:rsidSect="00677644">
+                <w:headerReference w:type="default" r:id="rId9"/>
+                <w:pgSz w:w="11057" w:h="15309" w:code="123"/>
+                <w:pgMar w:top="238" w:right="1797" w:bottom="1440" w:left="1797" w:header="680" w:footer="720" w:gutter="284"/>
+                <w:cols w:sep="1" w:space="425"/>
+                <w:docGrid w:linePitch="360"/>
+            </w:sectPr>
+        </w:body>
+    </w:document>
