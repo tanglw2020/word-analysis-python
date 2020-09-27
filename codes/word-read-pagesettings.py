@@ -24,6 +24,7 @@ print('section.margin:', section.top_margin,
 section.bottom_margin,
 section.left_margin,
 section.right_margin)
+print("gutterAtTop: ", document.settings.gutter_at_top)
 print('section.gutter:', section.gutter)
 print('section.distance:', section.header_distance, section.footer_distance)
 
